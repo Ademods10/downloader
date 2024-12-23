@@ -15,9 +15,6 @@ let dataList = [
     { title: "Item 10", description: "Deskripsi item kesepuluh.", downloadLink: "https://example.com/item10" },
     { title: "Item 11", description: "Deskripsi item kesebelas.", downloadLink: "https://example.com/item11" },
     { title: "Item 12", description: "Deskripsi item kedua belas.", downloadLink: "https://example.com/item12" },
-    { title: "Item 13", description: "Deskripsi item ketiga belas.", downloadLink: "https://example.com/item13" },
-    { title: "Item 14", description: "Deskripsi item keempat belas.", downloadLink: "https://example.com/item14" },
-    { title: "Item 15", description: "Deskripsi item kelima belas.", downloadLink: "https://example.com/item15" },
     // Tambahkan lebih banyak item sesuai kebutuhan
 ];
 
